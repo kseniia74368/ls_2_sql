@@ -1,6 +1,6 @@
 CREATE DATABASE [Hospital]
---GO
---USE [Hospital]
+GO
+USE [Hospital]
 GO
 CREATE TABLE Departments (
 	Id INT IDENTITY (1, 1) NOT NULL  PRIMARY KEY,
